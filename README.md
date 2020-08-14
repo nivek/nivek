@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Github](https://img.shields.io/badge/-Github-24292e?style=flat&logo=Github&logoColor=white)](https://github.com/nivek)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevintcruz/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/deusmode)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/kevincruzin/)
+
 <!--
 **nivek/nivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
