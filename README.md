@@ -9,6 +9,15 @@
 [Parkhaus15](https://www.parkhaus15.art)
 
 #### Currently Working With
+<img width="20%" src="https://www.vectorlogo.zone/logos/ebay/ebay-ar21.svg">
+<code>
+<img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+<img width="5%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+<img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+</code>
+</br>
+
+#### Other Tools/Languages
 <code>
 <img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg">
@@ -16,24 +25,25 @@
 <img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
 </code>
 </br>
-
-#### Other Tools/Languages
 <code>
 <img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/json/json-icon.svg">
+<img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
 </code>
 </br>
 <code>
 <img width="5%" src="https://img.icons8.com/color/48/000000/html-5.png">
 <img width="5%" src="https://img.icons8.com/color/48/000000/css3.png">
 <img width="5%" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png">
+<img width="5%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg">
 </code>
 </br>
 <code>
-<img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-<img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-<img width="5%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg">
+<img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img width="5%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+<img width="5%" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+
 </code>
 </br>
 
